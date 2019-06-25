@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenido a mi página
 
 You can use the [editor on GitHub](https://github.com/15Galan/15Galan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
